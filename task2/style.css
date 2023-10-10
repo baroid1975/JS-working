@@ -1,0 +1,7 @@
+body{
+    font-size: 18px;
+}
+
+#prompt, #alert, #consoleLog{
+    color: rgb(17, 0, 255);
+}
